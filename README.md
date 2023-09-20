@@ -43,10 +43,10 @@ git remote rm origin
 - Carga los cambios del COMMIT al repositorio remoto
 ```
 git push origin nombre_de_rama_remota
+```
 - Descarga la ultima version del repositorio remoto
 ```
 git pull origin nombre_de_rama_local
-
 ```
 - Muestra la información de los COMMIT
 ```
